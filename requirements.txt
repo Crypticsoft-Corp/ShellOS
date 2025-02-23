@@ -1,0 +1,9 @@
+psutil
+opencv-python
+Pillow 
+pygame
+ffpyplayer
+py-cpuinfo
+PyQt5
+PyQtWebEngine
+tkcalendar
