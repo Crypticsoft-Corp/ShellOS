@@ -1,5 +1,0 @@
-1. Choose the background you want to change to
-2. Move the file to the main Graphical_Shell folder 
-3. Move the original wallpaper.png to the backgrounds folder 
-4. Rename the background you choose to wallpaper.png
-5. Restart ShellOS
